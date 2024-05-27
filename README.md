@@ -1,6 +1,7 @@
 # Pixel RGB Color Editor
 
 This Python script allows you to edit an image's RGB colors by clicking on a pixel and entering a new RGB color. You can also delete the pixel by resetting its color to black.
+![Screenshot 2024-05-27 193705](https://github.com/JabareeB/Python-Pixel-Editor/assets/170050813/7d89ac42-1a09-41fa-bae4-e603dabf8163)
 
 ## Features
 
